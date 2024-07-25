@@ -1,7 +1,7 @@
 import React from "react";
 
 interface FooterProps {
-  year: number;
+  year: string;
   fullName: string;
   studentId: string;
 }
